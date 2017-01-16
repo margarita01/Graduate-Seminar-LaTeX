@@ -14,3 +14,4 @@ Math_symbols_cheatsheet.pdf: A LaTeX cheat sheet of the most used math commands
 hworld.tex: The tex example file for hello world
 title.tex: The tex example file for making a title
 tableofcontents.tex: The tex example file for making a table of contents
+latexr.jpg: An inspirational picture
